@@ -2,4 +2,6 @@
 # Adding config.py file.
 api_keys.py
 ```
-
+.DS_Store
+API_practice.ipynb
+random_numbers.ipynb
