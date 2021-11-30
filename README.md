@@ -1,6 +1,6 @@
 # Python-API-Challenge
 
-Based on our data, we can conclude that:
+Based on our data, we can conclude:
 
 1- No correlation between latitude and humidity and latitude and wind speed.
 
